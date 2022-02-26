@@ -5,8 +5,8 @@
  *     Token Hash: 0xbaF02040337B6DfD745563D259718Da3BC62Fb70
  *     Contract: https://polygonscan.com/address/0xbaF02040337B6DfD745563D259718Da3BC62Fb70#code
  * 
- *     Web Build Date: Sat Feb 26 2022 14:20:31 GMT+0700 (Western Indonesia Time)
- *     Web Version: 1.0.0-1645860031344
+ *     Web Build Date: Sun Feb 27 2022 01:12:14 GMT+0700 (Western Indonesia Time)
+ *     Web Version: 1.0.0-1645899134141
  * ******************************************export default {**************************************
  *                 
  */
